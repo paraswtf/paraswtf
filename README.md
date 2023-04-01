@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hello 👋, I'm Styxo (Paras) </h2>
+    <h2> Hello 👋, I'm Paras (@paraswtf everywhere) </h2>
     <a href="https://www.instagram.com/TheStyxo/">
     <img alt="Styxo's Instagram" width="25px" src="https://raw.githubusercontent.com/paraswtf/paraswtf/main/assets/instagram.svg">
     </a>
