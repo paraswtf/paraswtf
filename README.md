@@ -10,7 +10,7 @@
     <img alt="Styxo's Spotify", width="25px" src="https://raw.githubusercontent.com/paraswtf/paraswtf/main/assets/spotify.svg">
     </a>
     <br>
-    Hi, I'm Styxo (Paras), a passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Maharashtra,India">Maharashtra, India</a>
+    Hi, I'm Paras, a passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Maharashtra,India">Maharashtra, India</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/paraswtf/paraswtf/main/assets/javascript.svg"></code>
